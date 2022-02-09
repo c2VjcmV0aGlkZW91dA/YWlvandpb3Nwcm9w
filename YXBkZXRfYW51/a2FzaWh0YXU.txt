@@ -1,1 +1,1 @@
-{'ver1':'9.1', 'ver2':'22', 'ver3':'\n \n• test apdet\n• cek satu dua tiga\n• ok\n• ngapain dibaca2 terus\n• okoklh \n• byeeeeee\n', 'dli':'https://drive.google.com/drive/folders/1616n28zwzvsZQhMu5ib61e_qIFTTOmSZ?usp=sharing', 'exp90':'1', 'exp95':'1', 'exp911':'195'}
+{'ver1':'9', 'ver2':'22', 'ver3':'\n \n• test apdet\n• cek satu dua tiga\n• ok\n• ngapain dibaca2 terus\n• okoklh \n• byeeeeee\n', 'dli':'https://drive.google.com/drive/folders/1616n28zwzvsZQhMu5ib61e_qIFTTOmSZ?usp=sharing', 'exp90':'1', 'exp95':'1', 'exp911':'195'}
