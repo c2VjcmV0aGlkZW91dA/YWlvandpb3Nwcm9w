@@ -1,1 +1,1 @@
-{'ver1':'9', 'ver2':'53', 'ver3':'\n♨️ Base Update 2.22.23.77 \n♨️ Live Fakechat \n♨️ New Edit Message \n✨ Penambahan bug untuk diperbaiki kemudian', 'dli':'https://drive.google.com/drive/u/0/folders/1616n28zwzvsZQhMu5ib61e_qIFTTOmSZ', 'exp925':'1', 'exp935':'107777', 'exp929':'150', 'exp930':'107'}
+{'ver1':'9', 'ver2':'54', 'ver3':'\n✨ Fix Emoji Kembali ke Emoji Android \n✨ Penambahan bug untuk diperbaiki kemudian', 'dli':'https://drive.google.com/drive/u/0/folders/1616n28zwzvsZQhMu5ib61e_qIFTTOmSZ', 'exp952':'1'}
