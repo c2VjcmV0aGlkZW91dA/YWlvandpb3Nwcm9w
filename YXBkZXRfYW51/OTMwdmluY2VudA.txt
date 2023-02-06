@@ -1,1 +1,1 @@
-{'ver1':'9', 'ver2':'54', 'ver3':'\n✨ Fix Emoji Kembali ke Emoji Android \n✨ Penambahan bug untuk diperbaiki kemudian', 'dli':'https://drive.google.com/drive/u/0/folders/1616n28zwzvsZQhMu5ib61e_qIFTTOmSZ', 'exp952':'1'}
+{'ver1':'9', 'ver2':'55', 'ver3':'\n✨ Fix Long Press Chat and Hide Chat \n✨ Add APP ICON ANIME \n✨ Penambahan bug untuk diperbaiki kemudian', 'dli':'https://drive.google.com/drive/u/0/folders/1616n28zwzvsZQhMu5ib61e_qIFTTOmSZ', 'exp952':'1'}
