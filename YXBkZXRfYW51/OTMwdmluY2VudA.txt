@@ -1,1 +1,1 @@
-{'ver1':'9', 'ver2':'65', 'ver3':'\n🔥 99,9 Persen Anti Ban \n✨ Fix Minor Bug \n✨ Penambahan bug untuk diperbaiki kemudian', 'dli':'https://drive.google.com/drive/u/0/folders/1616n28zwzvsZQhMu5ib61e_qIFTTOmSZ', 'exp925':'1', 'exp935':'137', 'exp929':'150', 'exp930':'107'}
+{'ver1':'9', 'ver2':'66', 'ver3':'\n🔥 BLur Chat (BETA) \n✨ Perpanjang expired sampai Januari 2024 \n✨ Penambahan bug untuk diperbaiki kemudian', 'dli':'https://drive.google.com/drive/u/0/folders/1616n28zwzvsZQhMu5ib61e_qIFTTOmSZ', 'exp925':'1', 'exp935':'137', 'exp929':'150', 'exp930':'107'}
