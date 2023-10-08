@@ -1,1 +1,1 @@
-{'ver1':'9', 'ver2':'82', 'ver3':'\n✨ Fix crash \nPassword masih sama yang di grup\n \n✨ Penambahan bug untuk diperbaiki kemudian', 'dli':'https://drive.google.com/drive/u/0/folders/1616n28zwzvsZQhMu5ib61e_qIFTTOmSZ', 'exp925':'1', 'exp935':'137', 'exp929':'150', 'exp930':'107'}
+{'ver1':'9', 'ver2':'83', 'ver3':'\n✨ Perubahan menu Status menjadi Pembaruan \n✨ Fix lag story di RAM 3 \n✨ Penambahan bug untuk diperbaiki kemudian', 'dli':'https://drive.google.com/drive/u/0/folders/1616n28zwzvsZQhMu5ib61e_qIFTTOmSZ', 'exp925':'1', 'exp935':'137', 'exp929':'150', 'exp930':'107'}
